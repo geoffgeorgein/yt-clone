@@ -2,6 +2,10 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
 import Navbar from './components/navbar'
 import { Box } from '@mui/material'
+import SearchFeed from './components/searchfeed'
+import ChannelDetail from './components/channelDetail'
+import VideoDetail from './components/videoDetail'
+import Feed from './components/feed'
 
 function App() {
  
